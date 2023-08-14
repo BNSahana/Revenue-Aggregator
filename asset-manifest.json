@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Revenue-Aggregator/static/css/main.a4c0f74a.css",
+    "main.js": "/Revenue-Aggregator/static/js/main.98bdc4c2.js",
+    "index.html": "/Revenue-Aggregator/index.html",
+    "main.a4c0f74a.css.map": "/Revenue-Aggregator/static/css/main.a4c0f74a.css.map",
+    "main.98bdc4c2.js.map": "/Revenue-Aggregator/static/js/main.98bdc4c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c0f74a.css",
+    "static/js/main.98bdc4c2.js"
+  ]
+}
